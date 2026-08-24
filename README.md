@@ -7,7 +7,9 @@ Software developer turned Product Manager turned Startup Advisor.
 - 🔭 Currently tinkering with a few ideas
 - 🌱 Learning AI lens, Python, Graphs, Vector DBs
 - 💬 Ask me about Product, early stage and life (personal and/or professional)
-- 📫 Reach me: mudit.altruist@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/muditairan)
+- 📫 Reach me: mudit.altruist@gmail.com 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/muditairan)
 
 
 ### 🤖 Side Projects
