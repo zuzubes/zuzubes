@@ -1,5 +1,3 @@
-## AI Product Manager building AI-powered products
-
 # 👋 Hi, I'm Mudit
 
 Mainframe developer turned Product Manager turned Startup Advisor. Worked in Enterprises, startups and scaleups. 
